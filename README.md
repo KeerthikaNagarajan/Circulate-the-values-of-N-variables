@@ -14,12 +14,19 @@ Using the slicing concept rotate the list
 
 ## Program:
 #Program to circulate N values.
+
 #Developed by: Keerthika N
+
 #RegisterNumber: 21000385
+
 def circulate():
+
     a=[10,20,30,40,50,60]
+
     b=int(input()) 
+
     result=a[b:]+a[:b]
+    
     print("After circulating the values are:",result)
 
 ## Output:
