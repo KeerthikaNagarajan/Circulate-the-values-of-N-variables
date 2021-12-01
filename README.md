@@ -8,10 +8,18 @@ PC
 Anaconda - Python 3.7
 
 ## Algorithm: 
-### Step 1: 
-Get the value from the user for the number of rotation
+### Step 1:
+Use the function Circulate.
 ### Step 2: 
-Using the slicing concept rotate the list
+Assign variables into List.
+### Step 3: 
+Get the value from the user for the number of rotation.
+### Step 4: 
+Using the slicing concept rotate the List.
+### Step 5:
+Print the Result.
+### Step 6:
+End the Program.
 
 ## Program:
 #Program to circulate N values.
