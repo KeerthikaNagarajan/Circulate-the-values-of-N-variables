@@ -22,6 +22,7 @@ Print the Result.
 End the Program.
 
 ## Program:
+```
 #Program to circulate N values.
 
 #Developed by: Keerthika N
@@ -37,6 +38,7 @@ def circulate():
     result=a[b:]+a[:b]
     
     print("After circulating the values are:",result)
+```
 
 ## Output:
 ![OUTPUT](./Picture2.png)
